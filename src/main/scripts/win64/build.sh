@@ -11,6 +11,6 @@ cmake . \
 make
 r1=$?
 
-cp lib/win64/SDL2.dll ${TARGET_WIN64}/SDL2.dll
+cp lib/SDL2.dll ${TARGET_WIN64}/SDL2.dll
 
 exit ${r1}
