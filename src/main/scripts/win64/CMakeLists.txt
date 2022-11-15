@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 2.8.6)
+cmake_minimum_required (VERSION 2.8.12)
 project (module-controller-sdl-native)
 
 set(CMAKE_CXX_FLAGS "-O2 -std=gnu++11")
