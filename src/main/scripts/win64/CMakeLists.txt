@@ -3,7 +3,7 @@ project (module-controller-sdl-native)
 
 set(CMAKE_CXX_FLAGS "-O2 -std=gnu++11")
 
-include_directories("../include/sdl")
+include_directories("../include/SDL3")
 
 set(CMAKE_SHARED_LINKER_FLAGS "-Xlinker --add-stdcall-alias")
 
