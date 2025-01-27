@@ -18,4 +18,4 @@ file(
 
 add_library(controller-sdl SHARED ${source_files})
 
-target_link_libraries(controller-sdl ${CMAKE_SOURCE_DIR}/lib/SDL2.dll)
+target_link_libraries(controller-sdl ${CMAKE_SOURCE_DIR}/lib/SDL3.dll)
