@@ -10,3 +10,7 @@ target
 /src/main/scripts/win64/includes/*
 /src/main/c++/*
 /src/main/includes/*
+/src/main/scripts/include/SDL3
+/src/main/scripts/win64/libgcc_s_seh-1.dll
+/src/main/scripts/win64/libstdc++-6.dll
+/src/main/scripts/win64/mingw-toolchain.cmake
